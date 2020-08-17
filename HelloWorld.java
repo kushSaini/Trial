@@ -9,6 +9,9 @@ public class HelloWorld{
     List<String> list=new LinkedList<>();
     list.add("Kush Saini");
     list.add("Rohan Nanda");
+    
+    //Printing the size of the List
+    System.out.println(list.size());
   }
 
 }
